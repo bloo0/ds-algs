@@ -2,6 +2,6 @@
 study materials
 
 
-credits:
+### credits:
 - Andrei Neagoie
 - theja-m
