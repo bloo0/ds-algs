@@ -60,10 +60,17 @@ class LinkeList():
 			temp = temp.next
 			i += 1
 
-
+# 2 10 5
 	### SPECIAL FUNCTIONS
 	def reverse(self):
-		pass
+		prev = None
+		self.tail = self.head
+		while self.head != None:
+			temp = self.head
+			self.head = temp.next
+			temp.next = prev
+			prev = temp
+		self.head = temp
 
 	def printl(self):
 		temp = self.head
@@ -84,8 +91,10 @@ l.append(18)
 
 l.prepend(2)
 
-l.insert(5,33)
+l.insert(4,33)
 l.remove(5)
+
+l.reverse()
 
 l.printl()
 print(l.head.data, l.tail.data)
