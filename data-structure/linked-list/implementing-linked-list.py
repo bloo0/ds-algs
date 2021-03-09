@@ -60,7 +60,7 @@ class LinkeList():
 			temp = temp.next
 			i += 1
 
-# 2 10 5
+
 	### SPECIAL FUNCTIONS
 	def reverse(self):
 		prev = None
