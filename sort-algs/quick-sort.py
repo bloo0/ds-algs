@@ -19,9 +19,11 @@ def partition(array, pivot, left, right):
 
     print('done loop iteration') ##
     print('before swap', right, partitionindex)
+
     swap(array, right, partitionindex)
     print('end swap\n')
     print(array)
+    
     return partitionindex
 
 def swap(array, firstindex, secondindex):
