@@ -13,4 +13,3 @@
 - Life at Google
 - Andrei Neagoie
 - theja-m
-test
