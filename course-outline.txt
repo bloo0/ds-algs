@@ -1,0 +1,102 @@
+
+
+Course: 
+1. General Programming (OOP / static and dynamic type / programming paradigms / asynchronous programming / threading, concurrency & parallelism)
+2. Data Structures and Algorithm (Time complexity analysis / data structures and their implementation / algorithm analysis and design)
+3. Design
+4. Tools
+5. Databases
+6. Web Technologies
+
+
+
+
+1. General Programming:
+General Programming:
+Python Full Course: https://www.youtube.com/watch?v=sxTmJE4k0ho&t=21606s
+Python Object Oriented Programming: https://www.youtube.com/watch?v=JeznW_7DlB0&t=2349s
+Asynchronous Programming in Python: https://www.youtube.com/watch?v=t5Bo1Je9EmE&t=748s
+Threading, Concurrency & Parallelism: https://www.youtube.com/watch?v=olYdb0DdGtM&t=2s
+
+
+
+2. Data Structures and Algorithm
+Time complexity analysis 
+Data structures and their implementation
+Algorithm analysis and design
+
+# Data Structures and Algorithms
+• Big O Notation
+   • Big Theta
+   • Big Omega
+• Data Structures
+    • Arrays
+    • Stacks, Queues, Priority Queue
+    • Linked Lists
+    • Hash-Tables
+         • Hash Functions
+• Trees
+    • B-trees
+    • AVL Trees
+    • B+ Trees
+    • Binary Trees
+    • Binary Search Trees
+• Heaps
+    • Min Heap
+    • Max Heap
+    • Heap Implementation
+• Graphs & Graph Theory 
+• Sets & Set Theory
+
+
+
+3. Design:
+Design:
+10 Design Principles For Software Engineers: https://www.youtube.com/watch?v=XQzEo1qag4A&t=1s
+Software Design Tutorial: https://www.youtube.com/watch?v=FLtqAi7WNBY&t=1s
+
+Design Principles
+- UML Modeling
+- Activity Diagram
+- State Diagram
+- User Flow Diagram4. 
+
+Design Patterns
+- Observer Pattern
+- Subscriber Pattern
+- Singleton
+- Decorator
+
+
+
+4. Tools
+https://www.youtube.com/watch?v=7qZBwhSlfOo
+
+
+
+5. Databases
+https://www.youtube.com/watch?v=3vsC05rxZ8c
+• SQL
+• Database Design
+
+
+
+6. Web Technologies
+• HTTP
+  • HTTP Methods
+• API's & JSON: https://www.youtube.com/watch?v=GMppyAPbLYk&t=769s
+• Client-Server Model
+• Networking
+
+
+
+
+
+
+
+
+
+
+
+
+
