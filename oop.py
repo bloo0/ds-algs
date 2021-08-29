@@ -29,6 +29,18 @@ class Course:
 
 		return value / len(self.students)
 
+s1 = Student('tim', 19, 95)
+s2 = Student('bill', 19, 75)
+s3 = Student('jill', 19, 65)
+
+course = Course('science', 2)
+course.add_student(s1)
+course.add_student(s2)
+#print(course.add_student(s3))
+#print(course.get_average_grade())
+
+
+#####
 
 class Pet:
 	def __init__(self, name, age):
@@ -54,20 +66,6 @@ class Dog(Pet):
 	def speak(self):
 		print('bark')
 
-##
-
-s1 = Student('tim', 19, 95)
-s2 = Student('bill', 19, 75)
-s3 = Student('jill', 19, 65)
-
-course = Course('science', 2)
-course.add_student(s1)
-course.add_student(s2)
-#print(course.add_student(s3))
-#print(course.get_average_grade())
-
-
-## 
 
 p = Pet('tim', 19)
 p.show()
@@ -79,4 +77,32 @@ c.speak()
 
 d.show()
 d.speak()
+
+
+
+###
+
+class Person:
+	number_of_people = 0
+	GRAVITY = -9.8
+
+	def __init__(self, name):
+		self.name = name
+		Person.add_person()
+
+	@classmethod
+	def number_of_people_(cls):
+		return cls.number_of_people
+
+	@classmethod
+	def add_person(cls):
+		cls.number_of_people += 1
+
+p1 = Person("tim")
+p1 = Person("jill")
+print(Person.number_of_people_())
+
+
+
+
 
